@@ -1,0 +1,19 @@
+PS C:\Users\digvi\OneDrive\Desktop\Tast_1> javac GuessGame.java
+PS C:\Users\digvi\OneDrive\Desktop\Tast_1> java GuessGame
+Welcome to the Guessing Game!
+Try to guess the secret number between 1 and 100.
+Enter your guess: 30
+Try a higher number.
+Enter your guess: 40
+Try a higher number.
+Enter your guess: 60
+Try a higher number.
+Enter your guess: 75
+Try a higher number.
+Enter your guess: 85
+Try a lower number.
+Enter your guess: 80
+Try a higher number.
+Enter your guess: 83
+Congratulations! You guessed the number in 7 attempts.
+Do you want to play again? (yes/no):
